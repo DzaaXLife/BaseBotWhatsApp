@@ -1,0 +1,17 @@
+# Binary
+bot
+*.exe
+
+# Session data
+data/
+
+# Environment
+.env
+
+# Go
+vendor/
+*.test
+
+# IDE
+.vscode/
+.idea/
